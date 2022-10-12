@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx babel-node myscript.js"
+  },
+  
+  "dependencies": {
+    "react-router-dom": "^6.4.2"
+  }
+
+  
+}
